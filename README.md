@@ -45,7 +45,6 @@ L’objectif est d’obtenir une vision globale de la performance des transactio
 
 ## 5 Analyses et visualisations
 
-Le tableau de bord permet notamment d'analyser :
 
 ![Tableau de bord d'analyse des ventes Shopify](images/shopify_analysis_dashboard.PNG)
 
