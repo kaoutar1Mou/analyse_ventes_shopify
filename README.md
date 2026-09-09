@@ -47,12 +47,11 @@ L’objectif est d’obtenir une vision globale de la performance des transactio
 
 Le tableau de bord permet notamment d'analyser :
 
-* Les ventes par région, province et ville.
-* L'évolution des ventes au fil du temps.
-* Les ventes selon les jours et les heures.
-* Les méthodes de paiement utilisées.
-* Les performances des différents types de produits.
-* Le comportement des clients et les achats répétés.
+    ![Tableau de bord d’analyse des ventes Shopify](images\shopify_analysis dashboard.PNG)
+    ![Tableau de bord des détails des transactions](images\details_tab_dashboard.PNG)
+
+    
+
   
 
 Des fonctionnalités interactives permettent également d'explorer les données et d'accéder à une page détaillée grâce au **drill-through**.
