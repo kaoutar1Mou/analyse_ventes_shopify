@@ -45,8 +45,11 @@ L’objectif est d’obtenir une vision globale de la performance des transactio
 
 ## 5 Analyses et visualisations
 
+### Tableau de bord d'analyse des ventes Shopify
 
 ![Tableau de bord d'analyse des ventes Shopify](images/shopify_analysis_dashboard.PNG)
+
+### Tableau de bord des détails des transactions
 
 ![Tableau de bord des détails des transactions](images/details_tab_dashboard.PNG)
 
