@@ -47,14 +47,10 @@ L’objectif est d’obtenir une vision globale de la performance des transactio
 
 Le tableau de bord permet notamment d'analyser :
 
-    ![Tableau de bord d’analyse des ventes Shopify](images\shopify_analysis dashboard.PNG)
-    ![Tableau de bord des détails des transactions](images\details_tab_dashboard.PNG)
+![Tableau de bord d’analyse des ventes Shopify](images\shopify_analysis_dashboard.PNG)
+![Tableau de bord des détails des transactions](images\details_tab_dashboard.PNG)
 
-    
 
-  
-
-Des fonctionnalités interactives permettent également d'explorer les données et d'accéder à une page détaillée grâce au **drill-through**.
 
 ## 6 Fonctionnalités du dashboard
 
