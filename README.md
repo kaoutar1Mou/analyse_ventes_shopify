@@ -84,4 +84,6 @@ Ces informations peuvent être utilisées pour mieux comprendre la performance c
 * La génération d'insights à partir des données.
 
 
+## 9 Contexte du projet
 
+Ce projet a été réalisé dans le cadre d'un projet d'apprentissage guidé, afin de renforcer mes compétences en analyse de données, Power BI, Power Query et DAX.
